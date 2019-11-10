@@ -4,7 +4,7 @@ En esta lección se pide realizar lo siguiente:
 – Declare una matriz de una dimensión denominada score de tipo int que pueda contener 9 valores.
 – Declare e inicialice una matriz de bytes de una dimensión denominada values de tamaño 10, de manera que todas las entradas contengan 1.
 
-![Lección 8_1_2_1](https://user-images.githubusercontent.com/54320247/68539344-aee49a00-0347-11ea-8c08-50987a6a67d5.jpg)
+![Lección 8_1_2_1](https://user-images.githubusercontent.com/54320247/68539455-adb46c80-0349-11ea-9812-4a03d59030c3.jpg)
 
 A continuación se pide diseñar un programa con las siguientes características:
 – En una clase determinada, hay cinco pruebas, cada una con un valor máximo de 10 puntos.
